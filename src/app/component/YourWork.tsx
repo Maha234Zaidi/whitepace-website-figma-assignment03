@@ -17,9 +17,9 @@ const YourWork = () => {
         </p>
 
         <button className="bg-[#4F9CF9] w-[165px] h-[63px] rounded-lg p-4 mt-11 mx-9 hover:transform hover:translate-y-2 transition duration-300">
-          <p className="font-medium text-lg leading-[15px] tracking-[-0.02em] flex text-white ml-4">
+          <p className="font-medium text-lg leading-[15px] tracking-[-0.02em] flex text-white ml-2">
             Try Taskey
-            <span className="w-[10px] h-[10px] pt-[4px] ml-6 ">
+            <span className="w-[10px] h-[10px] pt-[4px] ml-4 ">
               <Image src={Img} alt="Right-Error"></Image>
             </span>
           </p>
